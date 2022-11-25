@@ -1,6 +1,13 @@
+
+
 .meatball,
 .lasagna,
 .phone {
     width: 360px;
     height: auto;
+}
+
+.button {
+    font-size: 32px;
+    color: orangered;
 }
