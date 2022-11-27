@@ -1,6 +1,21 @@
+body {
+    background-color: rgb(77, 65, 65);
+}
+
 .meatball,
 .lasagna,
 .phone {
     width: 360px;
     height: auto;
+}
+
+
+h1.header {
+    font-size: 48px;
+    color:darkkhaki;
+}
+
+.meals {
+    color:cadetblue;
+    font-size: 32px;
 }
