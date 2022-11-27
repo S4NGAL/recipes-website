@@ -2,9 +2,7 @@ body {
     background-color: rgb(77, 65, 65);
 }
 
-.meatball,
-.lasagna,
-.phone {
+img {
     width: 360px;
     height: auto;
 }
@@ -18,4 +16,19 @@ h1.header {
 .meals {
     color:cadetblue;
     font-size: 32px;
+}
+
+.recipe-page {
+    color:blanchedalmond;
+    font-size: large;
+}
+
+.recipe-page.h3 {
+    color:burlywood;
+    font-size: 28px;
+}
+
+.recipe-page.h1 {
+    font-size: 36px;
+    color:aquamarine;
 }
